@@ -19,6 +19,12 @@ theme[selected_fg]="#FF0000"
 # Color of inactive/disabled text
 theme[inactive_fg]="#800000"
 
+# Color of text appearing on top of graphs
+theme[graph_text]="#FFFF00"
+
+# Background color of the percentage meters
+theme[meter_bg]="#800000"
+
 # Misc colors for processes box including mini cpu graphs, details memory graph and details status text
 theme[proc_misc]="#FFFF00"
 
@@ -61,3 +67,7 @@ theme[download_end]="#FF0000"
 theme[upload_start]="#FFFF00"
 theme[upload_mid]="#FF8800"
 theme[upload_end]="#FF0000"
+
+theme[process_start]="#FFFF00"
+theme[process_mid]="#FF8800"
+theme[process_end]="#FF0000"
